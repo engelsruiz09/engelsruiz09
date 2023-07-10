@@ -1,12 +1,12 @@
 ### What's up, folks! 👋
 
-## 🏆 Trofeos de GitHub
+## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=engelsruiz09&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🛠️ Mis habilidades
+## 🛠️ My Skills
 
-### Lenguajes y Herramientas:
+### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
@@ -21,6 +21,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png"></code>
 
-### Estadísticas de GitHub
+### GitHub Stats
 
 ![Engels's github stats](https://github-readme-stats.vercel.app/api?username=engelsruiz09&show_icons=true&theme=radical)
+
+
+
+
+
+
+
+
+
