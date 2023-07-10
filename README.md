@@ -19,7 +19,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/rstudio/rstudio.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png"></code>
 
 ### Estadísticas de GitHub
 
