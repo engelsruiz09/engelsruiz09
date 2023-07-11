@@ -21,6 +21,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png"></code>
 
+### ⚙️ GitHub Usage Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engelsruiz09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### GitHub Stats
 
 ![Engels's github stats](https://github-readme-stats.vercel.app/api?username=engelsruiz09&show_icons=true&theme=radical)
