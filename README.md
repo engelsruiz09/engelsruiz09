@@ -3,8 +3,9 @@
   <img src="https://img.shields.io/github/followers/engelsruiz09?label=Follow&style=social" />
 </p>
 
+
 <p align="center">
-  <img src="https://media.giphy.com/media/7SmK2CkpPdDt7nZKxI/giphy.gif" width="500" />
+  <img src="https://github.com/engelsruiz09/engelsruiz09/assets/89810102/1fc2c9aa-7fd7-4532-82ac-92d4c1a2196b" width="950" alt="giphy" />
 </p>
 
 
@@ -53,9 +54,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/engelsruiz09/engelsruiz09/assets/89810102/1fc2c9aa-7fd7-4532-82ac-92d4c1a2196b" width="900" alt="giphy" />
-</p>
 
 
 
