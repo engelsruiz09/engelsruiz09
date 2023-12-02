@@ -11,11 +11,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/LordDashMe/github-contribution-stats/">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=engelsruiz09" />
-  </a>
-</p>
+
 
 <h2 align="center">🛠️ My Skills 🛠️</h2>
 
@@ -39,8 +35,8 @@
 <h3 align="center">⚙️ GitHub Usage Stats ⚙️</h3>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engelsruiz09&layout=compact" />
+  <a href="https://github.com/LordDashMe/github-contribution-stats/">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=engelsruiz09" />
   </a>
 </p>
 
