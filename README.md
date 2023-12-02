@@ -1,4 +1,4 @@
-![giphy](https://github.com/engelsruiz09/engelsruiz09/assets/89810102/3aff4e9d-e6b4-485d-8bda-085845f9d98e)<p align="center">
+
   <strong>What's up, folks! 👋</strong><br>
   <img src="https://img.shields.io/github/followers/engelsruiz09?label=Follow&style=social" />
 </p>
