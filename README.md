@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/engelsruiz09/engelsruiz09/assets/89810102/1fc2c9aa-7fd7-4532-82ac-92d4c1a2196b" width="950" alt="giphy" />
+  <img align="right" alt="Coding" width="900" src="https://media.tenor.com/85M6585q7zkAAAAC/super-mario-bros-movie-mario-kart.gif" />
 </p>
 
 
