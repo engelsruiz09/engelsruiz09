@@ -11,6 +11,13 @@
   </a>
 </p>
 
+<h2 align="center">Daily.dev Dev card</h2>
+<p align="center">
+	<a href="https://app.daily.dev/engelsruiz09">
+		<img src="https://github.com/engelsruiz09/engelsruiz09/blob/main/devcard.svg" width="300" alt="Engels Ruiz's Dev Card"/>
+	</a>
+</p>
+
 
 
 <h2 align="center">🛠️ My Skills 🛠️</h2>
