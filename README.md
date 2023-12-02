@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img align="right" alt="Coding" width="900" src="https://media.tenor.com/85M6585q7zkAAAAC/super-mario-bros-movie-mario-kart.gif" />
+  <img alt="Coding" width="900" src="https://media.tenor.com/85M6585q7zkAAAAC/super-mario-bros-movie-mario-kart.gif" />
 </p>
 
 
