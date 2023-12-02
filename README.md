@@ -18,10 +18,10 @@
 
 ### GitHub Stats
 
-![Engels's github stats](https://github-readme-stats.vercel.app/api?username=engelsruiz09&show_icons=true&theme=radical)
+![Engels's GitHub stats](https://github-readme-stats.vercel.app/api?username=engelsruiz09&show_icons=true&theme=radical)
 
 
-
+![Metrics](https://metrics.lecoq.io/?template=terminal&chess=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&chess=false&chess.user=.user.login&chess.animation=%7B%0A%20%20%22size%22%3A%2040%2C%0A%20%20%22delay%22%3A%203%2C%0A%20%20%22duration%22%3A%200.6%0A%7D%0A&config.timezone=America%2FGuatemala)
 
 
 
