@@ -25,8 +25,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engelsruiz09&theme=dark&hide=javascript,html,css&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### GitHub Stats
-![Engels's GitHub stats](https://github-readme-stats.vercel.app/api?username=engelsruiz09&show_icons=true&theme=dark)
+### My Visitors
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=engelsruiz09.engelsruiz09)
 
 
 
