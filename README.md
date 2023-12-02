@@ -3,7 +3,20 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=engelsruiz09&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=engelsruiz09&theme=onedark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/LordDashMe/github-contribution-stats/">
+        <img src="https://github-contribution-stats.vercel.app/api/?username=engelsruiz09" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ My Skills
 
