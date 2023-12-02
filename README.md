@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-   <img src="https://media.giphy.com/media/QxZEtFE02ofY00gJ71/giphy.gif" width="300" height="300" />
+   ![giphy](https://github.com/engelsruiz09/engelsruiz09/assets/89810102/1fc2c9aa-7fd7-4532-82ac-92d4c1a2196b)
 </p>
 
 
