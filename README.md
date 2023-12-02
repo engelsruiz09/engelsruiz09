@@ -53,12 +53,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/engelsruiz09/engelsruiz09/assets/89810102/1fc2c9aa-7fd7-4532-82ac-92d4c1a2196b" alt="giphy" />
+  <img src="https://raw.githubusercontent.com/engelsruiz09/engelsruiz09/main/assets/giphy.gif" width="600" alt="giphy" />
 </p>
 
 
-
-![giphy](https://github.com/engelsruiz09/engelsruiz09/assets/89810102/f460fe8d-bcf7-48eb-b147-cfb907354859)
 
 
 
