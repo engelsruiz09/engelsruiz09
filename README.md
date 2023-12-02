@@ -1,8 +1,8 @@
+<h1 align="center">What's up, folks! 👋</h1>
 <p align="center">
-  <h1 align="center">What's up, folks! 👋</h1>
-  <br>
   <img src="https://img.shields.io/github/followers/engelsruiz09?label=Follow&style=social" />
 </p>
+
 
 <p align="center">
   <img alt="Coding" width="900" src="https://media.tenor.com/85M6585q7zkAAAAC/super-mario-bros-movie-mario-kart.gif" />
