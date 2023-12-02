@@ -26,7 +26,11 @@
 
 
 ### My Visitors
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=engelsruiz09.engelsruiz09)
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
 
 
