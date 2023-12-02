@@ -53,8 +53,9 @@
 </p>
 
 <p align="center">
-   ![giphy](https://github.com/engelsruiz09/engelsruiz09/assets/89810102/1fc2c9aa-7fd7-4532-82ac-92d4c1a2196b)
+  <img src="https://github.com/engelsruiz09/engelsruiz09/assets/89810102/1fc2c9aa-7fd7-4532-82ac-92d4c1a2196b" alt="giphy" />
 </p>
+
 
 
 
