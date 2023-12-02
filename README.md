@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>What's up, folks! 👋</strong><br>
+  <h1 align="center">What's up, folks! 👋/h1>
   <img src="https://img.shields.io/github/followers/engelsruiz09?label=Follow&style=social" />
 </p>
 
