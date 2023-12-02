@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
-<h3 align="center">⚙️ GitHub Usage Stats ⚙️</h3>
+<h2 align="center">⚙️ GitHub Usage Stats ⚙️</h2>
 
 <p align="center">
   <a href="https://github.com/LordDashMe/github-contribution-stats/">
@@ -46,7 +46,7 @@
 </p>
 
 
-<h3 align="center">👀 My Visitors 👀</h3>
+<h2 align="center">👀 My Visitors 👀</h2>
 
 <p align="center"> 
   Visitors count<br>
