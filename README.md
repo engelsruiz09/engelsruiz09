@@ -52,8 +52,9 @@
   <img src="https://profile-counter.glitch.me/engelsruiz09/count.svg" />
 </p>
 
+User
 <p align="center">
-  <img src="https://raw.githubusercontent.com/engelsruiz09/engelsruiz09/main/assets/giphy.gif" width="600" alt="giphy" />
+  <img src="https://github.com/engelsruiz09/engelsruiz09/assets/89810102/1fc2c9aa-7fd7-4532-82ac-92d4c1a2196b" width="600" alt="giphy" />
 </p>
 
 
