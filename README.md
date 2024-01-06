@@ -41,6 +41,12 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=engelsruiz09&show_icons=true&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engelsruiz09&layout=compact&theme=radical" />
   </a>
 </p>
@@ -50,13 +56,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=engelsruiz09&theme=dark" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=engelsruiz09&theme=onedark" />
-  </a>
-</p>
-
 
 
 <h2 align="center">👀 My Visitors 👀</h2>
