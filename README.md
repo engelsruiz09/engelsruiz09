@@ -41,19 +41,19 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=engelsruiz09&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=engelsruiz09&show_icons=true&theme=highcontrast" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engelsruiz09&layout=compact&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engelsruiz09&layout=compact&theme=highcontrast" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=engelsruiz09&theme=dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=engelsruiz09&theme=highcontrast" />
   </a>
 </p>
 
