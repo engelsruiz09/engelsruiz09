@@ -2,7 +2,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" alt="visitor badge"/>
 </p>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=What's+up,+folks!+👋;+I'm+engelsruiz09!;" alt="typing svg"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=What's+up,+folks!+👋;+I'm+engelsruiz09!;" alt="typing svg"/>
 </h1>
 
 
