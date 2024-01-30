@@ -1,7 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" alt="visitor badge"/>
+</p>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=What's+up,+folks! 👋;+I'm+engelsruiz09!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=What's+up,+folks!+👋;+I'm+engelsruiz09!;" alt="typing svg"/>
 </h1>
+
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/engelsruiz09?label=Follow&style=social" />
